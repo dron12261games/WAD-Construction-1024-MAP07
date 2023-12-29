@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -24,15 +24,15 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "D:\\ABSOLUTE POWER\\Doom\\Resources\\Textures\\OTEX_1.1.WAD";
+				location = "E:\\ABSOLUTE POWER\\Doom\\Resources\\Textures\\OTEX_1.1.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "OMRBLG33";
-		defaultceiltexture = "OMRBLG33";
+		defaultfloortexture = "OGRSSA01";
+		defaultceiltexture = "F_SKY1";
 		defaulttoptexture = "OBRCKC03";
 		defaultwalltexture = "OBRCKC03";
 		defaultbottomtexture = "OBRCKC03";
@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 12.08641f;
-		viewpositiony = -390.1883f;
-		viewscale = 2.413403f;
+		viewpositionx = 199.3647f;
+		viewpositiony = -328.8876f;
+		viewscale = 1.856452f;
 		
 		grid
 		{
